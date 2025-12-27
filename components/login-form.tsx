@@ -86,12 +86,6 @@ export default function LoginForm() {
           </Button>
         </form>
 
-        <div className="mt-4 text-center text-sm text-muted-foreground">
-          Belum terdaftar?{" "}
-          <Link href="/signup" className="text-primary font-medium hover:underline">
-            Daftar Sekarang
-          </Link>
-        </div>
 
         <div className="mt-6 p-4 bg-muted rounded-lg space-y-2 text-sm">
           <p className="font-semibold text-muted-foreground flex items-center gap-2">
